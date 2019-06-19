@@ -1,3 +1,4 @@
+markdown: kramdown
 remote-theme: johno/pixyll
 title: Welcome!
 description: Example Webpage
