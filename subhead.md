@@ -1,6 +1,5 @@
 ---
 title: Sub Heading
-layout: template
 filename: subhead.md
 ---
 
