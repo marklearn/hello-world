@@ -1,3 +1,9 @@
+---
+nav_order: 3
+has_children: true
+permalink: /hello-world
+---
+
 # hello-world
 Hello World Repository
 
