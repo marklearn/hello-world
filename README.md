@@ -31,7 +31,7 @@ This is the content under Heading3
 
 ---
 First Header | Second Header
--------------|--------------
-Cell 1       |  Cell 2
-Cell 3       |  Cell 4
+------------ | --------------
+Cell 1 | Cell 2
+Cell 3 | Cell 4
 
