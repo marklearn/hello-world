@@ -2,4 +2,8 @@ remote_theme: pmarsceill/just-the-docs
 title: Welcome!
 description: Example Webpage
 search_enabled: true
+# Aux links for the upper right navigation
+aux_links:
+    "Hello World on GitHub":
+      - "//github.com/marklearn/hello-world"
 
