@@ -2,7 +2,7 @@
 title: Hello World
 nav_order: 3
 has_children: true
-permalink: /
+permalink: /hello-world
 
 ---
 
