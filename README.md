@@ -9,7 +9,7 @@ permalink: /
 Table of contents
 {: .no_toc .text-delta }
 
-TOC {:toc}
+TOC {: toc}
 
 # hello-world
 Hello World Repository
