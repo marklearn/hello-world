@@ -5,6 +5,8 @@ has_children: true
 permalink: /hello-world
 
 ---
+1. TOC
+{:toc}
 
 # hello-world
 Hello World Repository
