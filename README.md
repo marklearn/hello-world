@@ -4,8 +4,12 @@ nav_order: 1
 permalink: /
 
 ---
-1. TOC
-{:toc}
+{: .no_toc }
+
+Table of contents
+{: .no_toc .text-delta }
+
+TOC {:toc}
 
 # hello-world
 Hello World Repository
