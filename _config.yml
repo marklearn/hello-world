@@ -6,6 +6,3 @@ search_enabled: true
 aux_links:
     "Hello World on GitHub":
       - "//github.com/marklearn/hello-world"
-
-
-theme: jekyll-theme-cayman
